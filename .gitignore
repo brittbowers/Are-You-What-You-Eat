@@ -1,0 +1,7 @@
+# Ignoring checkpoints, ds_store, pickle, csv, txt files
+.ipynb_checkpoints
+.pickle
+.txt
+.csv
+.DS_Store
+data/
