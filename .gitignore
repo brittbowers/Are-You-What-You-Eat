@@ -1,7 +1,10 @@
 # Ignoring checkpoints, ds_store, pickle, csv, txt files
+project_2_forestfires.ipynb
+project_2_insurance.ipynb
 .ipynb_checkpoints
 .pickle
 .txt
 .csv
 .DS_Store
+Pics/
 data/
